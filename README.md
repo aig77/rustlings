@@ -1,3 +1,8 @@
+My solutions to the Rustlings exercises found at https://github.com/rust-lang/rustlings.
+These exercises can be treated as supplementary to the Rust book found at https://doc.rust-lang.org/book/.
+
+Add ```export PATH="$HOME/.cargo/bin:$PATH"``` to your shell rc if using a different shell from bash (I'm using zsh). 
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
